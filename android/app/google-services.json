@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26674851755",
+    "project_id": "flutter-firbase-tutorail",
+    "storage_bucket": "flutter-firbase-tutorail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26674851755:android:87e000e53d4b119f742cee",
+        "android_client_info": {
+          "package_name": "com.abc.flutter_firbase_tutorail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfMGWz1gafpy3my_x3nPY6wz3O8VroL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
